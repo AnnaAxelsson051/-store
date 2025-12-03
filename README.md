@@ -1,3 +1,9 @@
+<!--
+Titel: Shoes-Central-Store
+
+Beskrivning:
+A full stack e-commerce platform featuring distinct customer and admin logins, robust security measures, PayPal checkout, and email confirmation (Spring Boot, Java, Thymeleaf, JPA, MySQL, Paypal-API, Mockito & Bootstrap)
+
 # Shoes Central Store
 
 ## User Interface
@@ -46,3 +52,5 @@ Unit and integration testing are ensured through JUnit, Spring Test, AssertJ, an
  - JUnit
  - AssertJ
  - Mockito 
+
+ -->
